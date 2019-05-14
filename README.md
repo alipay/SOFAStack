@@ -41,11 +41,13 @@ More projects in: [github/sofastack](https://github.com/sofastack)
   
     <img alt="Wechat" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*LVCnR6KtEfEAAAAAAAAAAABjARQnAQ" height="250" />
   
-  - WeChat Groups：We have ten groups, more than four thousand groups to develop user communication, Add `ant-techfin02` as your friend, and reply `SOFA` will invite to joining into the group.
+  - WeChat Groups：We have ten groups and more than four thousand developers, Add `ant-techfin02` as your friend, and reply `SOFA` will invite to joining into the group.
 - DingTalk
-  - DingTalk Group:「SOFAStack」 No: 23127468
+  - DingTalk Group:
+    - ~~「SOFAStack 1」 No: 23127468~~ Group is Full
+    - 「SOFAStack 2」 No: 23195297
   
-    <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*iUiDTZKOQWkAAAAAAAAAAABjARQnAQ" height="250" />
+    <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*honqQrxaN3sAAAAAAAAAAABjARQnAQ" height="250" />
 
   - DingTalk Group:「SOFAStack Online service」, If you have used any SOFAStack related components in a production environment, please let us know, and we will invite you to join this group for faster communication and more efficient use of problem support online.
 - [Weibo](https://weibo.com/sofastack)
