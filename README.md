@@ -45,7 +45,7 @@ More projects in: [github/sofastack](https://github.com/sofastack)
     - ~~「SOFAStack 2」 No: 23195297~~ Group is Full
     - 「SOFAStack 3」 No: 23390449
     
-    <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
+      <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
     
   - DingTalk Group:「SOFAStack Online service」, If you have used any SOFAStack related components in a production environment, please let us know, and we will invite you to join this group for faster communication and more efficient use of problem support online.
 - [Weibo](https://weibo.com/sofastack)
