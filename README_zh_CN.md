@@ -42,9 +42,10 @@
 - 钉钉
   - 钉钉交流群：
     - ~~金融级分布式架构 SOFAStack 1群，群号：23127468~~ 已满
-    - 金融级分布式架构 SOFAStack 2群，群号：23195297
+    - ~~金融级分布式架构 SOFAStack 2群，群号：23195297~~ 已满
+    - 金融级分布式架构 SOFAStack 3群，群号：23390449
 
-    <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*honqQrxaN3sAAAAAAAAAAABjARQnAQ" height="250" />
+      <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
   
   - 钉钉交流群：SOFAStack 金牌用户服务群，如果您已经在生产环境使用了 SOFAStack 相关组件，还请告知我们，我们将会邀请您加入到此群中，以便更加快捷的沟通和更加高效的线上使用问题支持。
 - [新浪微博](https://weibo.com/sofastack)
