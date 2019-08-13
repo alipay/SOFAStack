@@ -152,7 +152,6 @@ There are hundreds of people have contributed articles and code to SOFAStack, th
 </tr>
 <tr>
 <td><a href="https://github.com/hqq2023623" target="_blank"><img src="https://avatars2.githubusercontent.com/u/6971152?v=4&s=40" height="20" /> @hqq2023623</a></td>
-Disconnected from the target VM, address: '127.0.0.1:54631', transport: 'socket'
 <td><a href="https://github.com/huangyunbin" target="_blank"><img src="https://avatars2.githubusercontent.com/u/1046037?v=4&s=40" height="20" /> @huangyunbin</a></td>
 <td><a href="https://github.com/JamazRuan" target="_blank"><img src="https://avatars1.githubusercontent.com/u/44109623?v=4&s=40" height="20" /> @JamazRuan</a></td>
 <td><a href="https://github.com/jaredleechn" target="_blank"><img src="https://avatars3.githubusercontent.com/u/5318333?v=4&s=40" height="20" /> @jaredleechn</a></td>
