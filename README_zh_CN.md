@@ -30,9 +30,12 @@
 
 - [Github](https://github.com/sofastack/community)
 - <SOFA:Lab /> SOFA源码研究实验室：加入我们，回到写代码最初的样子
-  - [SOFARPCLab](https://www.yuque.com/sofarpclab)
-  - [SOFABoltLab](https://www.yuque.com/sofaboltlab)
-  - [SOFATracerLab](https://www.yuque.com/sofatracer)
+  - [SOFARegistry(共建中)](https://www.sofastack.tech/activities/sofa-registry-lab/)
+  - [SOFAJRaft(已完结)](https://www.sofastack.tech/tags/剖析-sofajraft-实现原理/)
+  - [SOFARPCLab(已完结)](https://www.sofastack.tech/tags/剖析-sofarpc-框架/)
+  - [SOFABoltLab(已完结)](https://www.sofastack.tech/tags/剖析-sofabolt-框架/)
+  - [SOFATracerLab(已完结)](https://www.sofastack.tech/tags/剖析-sofatracer-框架/)
+
 - 微信
   - 公众号：金融级分布式架构（Antfin_SOFA）：致力于打造一流的分布式技术在金融场景应用实践的技术交流平台，专注于交流金融科技行业内最前沿、可供参考的技术方案与实施路线。
   
@@ -46,11 +49,13 @@
     - 金融级分布式架构 SOFAStack 3群，群号：23390449
 
       <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
-  
+
+    - 金融级分布式架构 SOFAStack 4群，群号：23372465
   - 钉钉交流群：SOFAStack 金牌用户服务群，如果您已经在生产环境使用了 SOFAStack 相关组件，还请告知我们，我们将会邀请您加入到此群中，以便更加快捷的沟通和更加高效的线上使用问题支持。
 - [新浪微博](https://weibo.com/sofastack)
 - [思否](https://segmentfault.com/t/sofa)
 - [掘金](https://juejin.im/user/5a42596ff265da43062b06e8)
+- [twitter](https://twitter.com/sofastack_io)
 
 ## 已知用户
 

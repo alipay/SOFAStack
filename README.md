@@ -26,13 +26,16 @@ Source Code: [http://github.com/sofastack](http://github.com/sofastack)
 
 More projects in: [github/sofastack](https://github.com/sofastack)
 
-
 ## Community
+
 - [Github](https://github.com/sofastack/community)
 - <SOFA:Lab /> SOFA Source Research Lab
-  - [SOFARPCLab](https://www.yuque.com/sofarpclab)
-  - [SOFABoltLab](https://www.yuque.com/sofaboltlab)
-  - [SOFATracerLab](https://www.yuque.com/sofatracer)
+  - [SOFARegistryLab](https://www.sofastack.tech/activities/sofa-registry-lab/)
+  - [SOFAJRaftLab](https://www.sofastack.tech/tags/剖析-sofajraft-实现原理/)
+  - [SOFARPCLab](https://www.sofastack.tech/tags/剖析-sofarpc-框架/)
+  - [SOFABoltLab](https://www.sofastack.tech/tags/剖析-sofabolt-框架/)
+  - [SOFATracerLab](https://www.sofastack.tech/tags/剖析-sofatracer-框架/)
+
 - WeChat
   - Official Account：**Antfin_SOFA** is a technology exchange platform dedicated to building first-class distributed technologies in financial scenario applications, focusing on the most cutting-edge, reference-oriented technical solutions and implementation routes in the financial technology industry.
   
@@ -44,13 +47,15 @@ More projects in: [github/sofastack](https://github.com/sofastack)
     - ~~「SOFAStack 1」 No: 23127468~~ Group is Full
     - ~~「SOFAStack 2」 No: 23195297~~ Group is Full
     - 「SOFAStack 3」 No: 23390449
-    
+
       <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
-    
+
+    - 「SOFAStack 4」 No: 23372465
   - DingTalk Group:「SOFAStack Online service」, If you have used any SOFAStack related components in a production environment, please let us know, and we will invite you to join this group for faster communication and more efficient use of problem support online.
 - [Weibo](https://weibo.com/sofastack)
 - [SegmentFault](https://segmentfault.com/t/sofa)
 - [juejin.im](https://juejin.im/user/5a42596ff265da43062b06e8)
+- [twitter](https://twitter.com/sofastack_io)
 
 ## Known Users
 
