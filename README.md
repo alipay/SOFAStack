@@ -1,4 +1,4 @@
-<img alt="SOFAStack" src="./SOFAStack.svg" height="160" />
+<img alt="SOFAStack" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*WA_HRJ7TKlq4e3BEnwnJCwBjAQAAAQ/original" height="160" />
 
 **SOFAStack™ (Scalable Open Financial Architecture Stack)** is a collection of cloud native middleware components, which are designed to build distributed systems with high performance and reliability, and have been fully validated by mission-critical financial business scenarios.
 
@@ -101,6 +101,7 @@ Here we list the companies or organizations we know that use all or part of the 
 <img alt="中国移动" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*vEo-T55XTOAAAAAAAAAAAABkARQnAQ" height="60" />
 <img alt="无纸科技" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*9aFQSLfyPhMAAAAAAAAAAABkARQnAQ" height="60" />
 <img alt="黄金钱包" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*tYZJRpANxNoAAAAAAAAAAABkARQnAQ" height="60" />
+<img alt="独木桥网络" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*GW6oTLIlAbcAAAAAAAAAAABkARQnAQ" height="60" />
 
 ## Contributors
 

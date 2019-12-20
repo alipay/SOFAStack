@@ -1,4 +1,4 @@
-<img alt="SOFAStack" src="./SOFAStack.svg" height="160" />
+<img alt="SOFAStack" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*WA_HRJ7TKlq4e3BEnwnJCwBjAQAAAQ/original" height="160" />
 
 **SOFAStack™（Scalable Open Financial Architecture Stack）** 是用于快速构建金融级分布式架构的一套中间件，也是在金融场景里锤炼出来的最佳实践。
 
@@ -101,6 +101,7 @@
 <img alt="中国移动" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*vEo-T55XTOAAAAAAAAAAAABkARQnAQ" height="60" />
 <img alt="无纸科技" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*9aFQSLfyPhMAAAAAAAAAAABkARQnAQ" height="60" />
 <img alt="黄金钱包" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*tYZJRpANxNoAAAAAAAAAAABkARQnAQ" height="60" />
+<img alt="独木桥网络" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*GW6oTLIlAbcAAAAAAAAAAABkARQnAQ" height="60" />
 
 ## 贡献者
 
