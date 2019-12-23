@@ -41,16 +41,15 @@
   
     <img alt="Wechat" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*LVCnR6KtEfEAAAAAAAAAAABjARQnAQ" height="250" />
   
-  - 微信群：目前十个群，四千多一线开发用户交流群体，加`蚂蚁金服科技小助手(ant-techfin02)`为好友，回复 `SOFA` 入群。
 - 钉钉
   - 钉钉交流群：
     - ~~金融级分布式架构 SOFAStack 1群，群号：23127468~~ 已满
     - ~~金融级分布式架构 SOFAStack 2群，群号：23195297~~ 已满
-    - 金融级分布式架构 SOFAStack 3群，群号：23390449
-
-      <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*QkNdTrDjk_8AAAAAAAAAAABkARQnAQ" height="250" />
-
+    - ~~金融级分布式架构 SOFAStack 3群，群号：23390449~~ 已满
     - 金融级分布式架构 SOFAStack 4群，群号：23372465
+      
+        <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*SIG5TJGjc0oAAAAAAAAAAABkARQnAQ" height="250" />
+
   - 钉钉交流群：SOFAStack 金牌用户服务群，如果您已经在生产环境使用了 SOFAStack 相关组件，还请告知我们，我们将会邀请您加入到此群中，以便更加快捷的沟通和更加高效的线上使用问题支持。
 - [新浪微博](https://weibo.com/sofastack)
 - [思否](https://segmentfault.com/t/sofa)
