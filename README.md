@@ -12,17 +12,18 @@ Source Code: [http://github.com/sofastack](http://github.com/sofastack)
 
 - [SOFABoot](https://github.com/sofastack/sofa-boot) is a development framework open sourced by Ant Financial which is based on Spring Boot, provides capabilities such as Readiness Check, class isolation, log space isolation and asynchronous initialization of bean.
 - [SOFARPC](https://github.com/sofastack/sofa-rpc) is a high-performance, high-extensibility, production-level Java RPC framework.
-- [SOFAMesh](https://github.com/sofastack/sofa-mesh) SOFAMesh is a large-scale implementation solution for Service Mesh which is improved and extended based on Istio.
-- [SOFAMosn](https://github.com/sofastack/sofa-mosn) SOFAMosn(Modular Observable Smart Network) is a powerful proxy acting as Service Mesh's data plane written in GoLang.
-- [SOFATracer](https://github.com/sofastack/sofa-tracer) SOFATracer is a distributed link tracing system based on[OpenTracing specification](http://opentracing.io/documentation/pages/spec.html).
-- [SOFALookout](https://github.com/sofastack/sofa-lookout) SOFALookout is a lightweight and open source middleware service that solves the metrics and monitoring issues of the system.
-- [SOFABolt](https://github.com/sofastack/sofa-bolt) SOFABolt is a network communication framework implemented based on Netty.
-- [SOFAArk](https://github.com/sofastack/sofa-ark) SOFAArk is a light-weight, java based classloader isolation framework.
-- [SOFAJarslink](https://github.com/sofastack/sofa-jarslink) Is a dynamic modules and merged deployments solution based on SOFAArk.
-- [SOFAActs](https://github.com/sofastack/sofa-acts) ACTS (AntCoreTest) is a white-box testing framework that is based on the accumulation of testing practices for financial-grade distributed architectures.
-- [SOFAJraft](https://github.com/sofastack/sofa-jraft) SOFAJRaft is a production-grade, high-performance Java implementation based on the RAFT consensus algorithm.
-- [SOFARegistry](https://github.com/sofastack/sofa-registry) SOFARegistry is a production ready, high efficient, highly available service registry.
-- [SOFADashboard](https://github.com/sofastack/sofa-dashboard)  Is a one-stop console of SOFAStack.
+- [SOFAMesh](https://github.com/sofastack/sofa-mesh) is a large-scale implementation solution for Service Mesh which is improved and extended based on Istio.
+- [SOFATracer](https://github.com/sofastack/sofa-tracer) is a distributed link tracing system based on[OpenTracing specification](http://opentracing.io/documentation/pages/spec.html).
+- [SOFALookout](https://github.com/sofastack/sofa-lookout) is a lightweight and open source middleware service that solves the metrics and monitoring issues of the system.
+- [SOFABolt](https://github.com/sofastack/sofa-bolt) is a network communication framework implemented based on Netty.
+- [SOFAArk](https://github.com/sofastack/sofa-ark) is a light-weight, java based classloader isolation framework.
+- [SOFAJarslink](https://github.com/sofastack/sofa-jarslink) is a dynamic modules and merged deployments solution based on SOFAArk.
+- [SOFAActs](https://github.com/sofastack/sofa-acts) (AntCoreTest) is a white-box testing framework that is based on the accumulation of testing practices for financial-grade distributed architectures.
+- [SOFAJraft](https://github.com/sofastack/sofa-jraft) is a production-grade, high-performance Java implementation based on the RAFT consensus algorithm.
+- [SOFARegistry](https://github.com/sofastack/sofa-registry) is a production ready, high efficient, highly available service registry.
+- [SOFADashboard](https://github.com/sofastack/sofa-dashboard) is a one-stop console of SOFAStack.
+- [Mosn](https://github.com/mosn/mosn) (Modular Observable Smart Network) is a powerful proxy acting as Service Mesh's data plane written in GoLang.
+- [Seata](https://github.com/seata/seata) is a distributed transaction solution that delivers high performance and easy to use distributed transaction services under a microservices architecture.
 
 More projects in: [github/sofastack](https://github.com/sofastack)
 

@@ -13,7 +13,6 @@
 - [SOFABoot](https://github.com/sofastack/sofa-boot) 是基于 Spring Boot 的一套研发框架，完全兼容 Spring Boot 的基础上，还提供了启动期监控检查，上下文隔离，模块化开发，类隔离，日志空间隔离等能力。
 - [SOFARPC](https://github.com/sofastack/sofa-rpc) 是一个高可扩展性、高性能、生产级的 Java RPC 框架。
 - [SOFAMesh](https://github.com/sofastack/sofa-mesh) 是基于 Istio 改进和扩展而来的 Service Mesh 大规模落地实践方案。
-- [SOFAMosn](https://github.com/sofastack/sofa-mosn) 是 Golang 开发的 Service Mesh 数据平面代理，旨在提供分布式，模块化，可观察，智能化的代理能力。
 - [SOFATracer](https://github.com/sofastack/sofa-tracer) 是基于 [OpenTracing](http://opentracing.io/documentation/pages/spec.html) 规范的分布式链路跟踪系统。
 - [SOFALookout](https://github.com/sofastack/sofa-lookout) 是一款解决系统的度量和监控问题的轻量级中间件服务。
 - [SOFABolt](https://github.com/sofastack/sofa-bolt) 是基于 Netty 实现的网络通信框架。
@@ -23,6 +22,8 @@
 - [SOFAJraft](https://github.com/sofastack/sofa-jraft) 是生产级的 Java 版本的 Raft 协议实现。
 - [SOFARegistry](https://github.com/sofastack/sofa-registry) 是一款生产级、高时效、高可用的服务注册中心。
 - [SOFADashboard](https://github.com/sofastack/sofa-dashboard) 是一站式的 SOFA 框架管控端。
+- [Mosn](https://github.com/mosn/mosn) 是 Golang 开发的 Service Mesh 数据平面代理，旨在提供分布式，模块化，可观察，智能化的代理能力。
+- [Seata](https://github.com/seata/seata) 是一款开源的分布式事务解决方案，致力于在微服务架构下提供高性能和简单易用的分布式事务服务。
 
 更多已项目直接关注：[github/sofastack](https://github.com/sofastack)
 
