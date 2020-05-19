@@ -47,7 +47,7 @@
     - ~~金融级分布式架构 SOFAStack 1群，群号：23127468~~ 已满
     - ~~金融级分布式架构 SOFAStack 2群，群号：23195297~~ 已满
     - ~~金融级分布式架构 SOFAStack 3群，群号：23390449~~ 已满
-    - 金融级分布式架构 SOFAStack 4群，群号：23372465
+    - ~~金融级分布式架构 SOFAStack 4群，群号：23372465~~ 已满
     - 金融级分布式架构 SOFAStack 5群，群号：30315793
 
       <img alt="DingTalk" src="https://gw.alipayobjects.com/mdn/sofastack/afts/img/A*am-XQKObyJ8AAAAAAAAAAABkARQnAQ" height="250" />
